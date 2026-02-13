@@ -1,7 +1,2 @@
-# 👋 Hey! I am Guilherme
-
-<p align="center">
-  <img src="./8771cba5-b4e0-4a00-91da-73166798444e.png" alt="Capa do perfil" width="100%">
-</p>
-
----
+![Header](./<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/8d25475f-00b3-48f5-ae6f-d71e73f3ad9c" />
+)
