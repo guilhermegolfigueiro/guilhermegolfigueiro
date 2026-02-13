@@ -5,25 +5,3 @@
 </p>
 
 ---
-
-## 🚀 Sobre mim
-
-👉 **Coloque seu texto aqui**
-
----
-
-## 🛠️ Áreas de interesse
-
-👉 **Coloque seu texto aqui**
-
----
-
-## 📚 O que você vai encontrar por aqui
-
-👉 **Coloque seu texto aqui**
-
----
-
-## 📫 Contato
-
-👉 **Coloque seu texto aqui**
