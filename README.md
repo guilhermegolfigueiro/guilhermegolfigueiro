@@ -2,6 +2,5 @@
 
 ---
 
-Sou estudante do 3º ano do Ensino Médio, pelo SESI/SENAI Moinho, em Joinville – SC, cursando Desenvolvimento de Sistemas.  
-Tenho interesse em tecnologia, programação e desenvolvimento de soluções, sempre buscando aprender e evoluir tanto na parte técnica quanto prática.
-Nasci em 30/03/2009, na data de escrita desse texto tenho 16 anos, a criação deste perfil foi a partir das necessidades de publicar para que meus professores possam ver meus trabalhos do curso técnico.
+I am a 3rd year high school student, at SESI/SENAI Moinho, in Joinville – SC, studying Systems Development.
+I am interested in technology, programming and development of solutions, always seeking to learn and evolve both technically and practically. I was born on 03/30/2009, on the date of writing this text I am 16 years old, the creation of this profile was based on publication needs so that my teachers can see my technical course work.
