@@ -2,4 +2,5 @@
 
 ---
 
-Atualmente estou no 3 ano do ensino médio pelo SESI/SENAI Moinho
+Sou estudante do 3º ano do Ensino Médio, pelo SESI/SENAI Moinho, em Joinville – SC, cursando Desenvolvimento de Sistemas.  
+Tenho interesse em tecnologia, programação e desenvolvimento de soluções, sempre buscando aprender e evoluir tanto na parte técnica quanto prática.
