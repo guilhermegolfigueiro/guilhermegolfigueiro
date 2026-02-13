@@ -1,7 +1,29 @@
-## Hello everybody 👌
-Welcome to my profile!!!
+# 👋 Hey! I am Guilherme
 
-I am currently in the third year of high school studying systems development technician at SESI/SENAI
+<p align="center">
+  <img src="./8771cba5-b4e0-4a00-91da-73166798444e.png" alt="Capa do perfil" width="100%">
+</p>
 
-<!--
-**guilhermegolfigueiro/guilhermegolfigueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+## 🚀 Sobre mim
+
+👉 **Coloque seu texto aqui**
+
+---
+
+## 🛠️ Áreas de interesse
+
+👉 **Coloque seu texto aqui**
+
+---
+
+## 📚 O que você vai encontrar por aqui
+
+👉 **Coloque seu texto aqui**
+
+---
+
+## 📫 Contato
+
+👉 **Coloque seu texto aqui**
